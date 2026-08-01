@@ -1,0 +1,20 @@
+generated: '2026-07-20'
+method: searched
+probe: false
+source: https://revolutionre.com/data-security
+url: https://revolutionre.com/data-security
+certifications:
+- SOC 2
+compliance_program:
+  soc2: 'Independently audited against the Trust Services Criteria for security, availability, and confidentiality. SOC 2 report available upon request under NDA.'
+controls:
+- Encryption in transit (TLS 1.2+) and at rest (AES-128+)
+- Read-only PMS access (no write/modify/delete capabilities)
+- Multi-factor authentication for all internal access
+- Least-privilege access controls
+- Continuous infrastructure monitoring
+- Regular third-party penetration testing
+report_access: SOC 2 report, security questionnaires, and data protection agreements available via the security contact form (typical response 1-2 business days).
+evidence:
+- source: https://revolutionre.com/data-security
+  keywords: [soc 2, trust services criteria, encryption, penetration testing]
