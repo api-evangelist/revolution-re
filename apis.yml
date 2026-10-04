@@ -47,7 +47,7 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - PropTech
 - Multifamily
 - Data Intelligence
@@ -65,6 +65,7 @@ tags_raw:
 - Benchmarking
 - ETL
 - Analytics
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
